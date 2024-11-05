@@ -1,5 +1,5 @@
 class ReportesController < ApplicationController
-  before_action :set_reporte, only: [ :show, :update ]
+  # before_action :set_reporte, only: [ :show, :update ]
 
   # POST /reportes
   def create
